@@ -9,4 +9,4 @@ Uses the modified icons of FFXIView of this version: https://github.com/KenshiDR
 
 Update by sebyg666:
 
-Changed icon and size, once download the icons.rar folder will need to be extracted to work
+Changed icon and size, once downloaded, the icons.rar file will need to be extracted to work
