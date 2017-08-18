@@ -44,17 +44,4 @@
         <ma>true</ma>
         <ws>true</ws>
     </global>
-    <ewellina>
-        <display>
-            <pos>
-                <x>987</x>
-                <y>332</y>
-            </pos>
-            <text>
-                <stroke>
-                    <alpha>16516605</alpha>
-                </stroke>
-            </text>
-        </display>
-    </ewellina>
 </settings>

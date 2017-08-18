@@ -3,7 +3,7 @@ _addon.command = 'trade'
 packets = require('packets')
 
 whitelist = L{
-    'Ewellina','Chitara','Laubent'
+    'name'
 }
 windower.register_event('addon command', function(name,bool)
     local targ = name and windower.ffxi.get_mob_by_name(name) or windower.ffxi.get_mob_by_target('t') and windower.ffxi.get_mob_by_target('t')
